@@ -31,6 +31,8 @@ ng serve
 
 Then open http://localhost:4200
 
+Initial CI setup
+
 ## Future Improvements
 - User authentication
 - Order management
